@@ -1,0 +1,127 @@
+[
+  {
+    "id": "1",
+    "name": "Mumbai",
+    "type": "city"
+  },
+  {
+    "id": "2",
+    "name": "Delhi",
+    "type": "city"
+  },
+  {
+    "id": "3",
+    "name": "Bengaluru",
+    "type": "city"
+  },
+  {
+    "id": "4",
+    "name": "Noida",
+    "type": "city"
+  },
+  {
+    "id": "5",
+    "name": "Indore",
+    "type": "city"
+  },
+  {
+    "id": "6",
+    "name": "Pune",
+    "type": "city"
+  },
+  {
+    "id": "7",
+    "name": "Chennai",
+    "type": "city"
+  },
+  {
+    "id": "8",
+    "name": "Kochi",
+    "type": "city"
+  },
+  {
+    "id": "9",
+    "name": "Ahmedabad",
+    "type": "city"
+  },
+  {
+    "id": "10",
+    "name": "Gurugram",
+    "type": "city"
+  },
+  {
+    "id": "11",
+    "name": "Hyderabad",
+    "type": "city"
+  },
+  {
+    "id": "12",
+    "name": "Kolkata",
+    "type": "city"
+  },
+  {
+    "id": "13",
+    "name": "Lucknow",
+    "type": "city"
+  },
+  {
+    "id": "14",
+    "name": "Dehradun",
+    "type": "country"
+  },
+  {
+    "id": "15",
+    "name": "Patna",
+    "type": "city"
+  },
+  {
+    "id": "16",
+    "name": "India",
+    "type": "country"
+  },
+  {
+    "id": "17",
+    "name": "Sri Lanka",
+    "type": "country"
+  },
+  {
+    "id": "18",
+    "name": "France",
+    "type": "country"
+  },
+  {
+    "id": "19",
+    "name": "Russia",
+    "type": "country"
+  },
+  {
+    "id": "20",
+    "name": "Finland",
+    "type": "country"
+  },
+  {
+    "id": "21",
+    "name": "USA",
+    "type": "country"
+  },
+  {
+    "id": "22",
+    "name": "Belarus",
+    "type": "country"
+  },
+  {
+    "id": "23",
+    "name": "Ukraine",
+    "type": "country"
+  },
+  {
+    "id": "24",
+    "name": "Estonia",
+    "type": "country"
+  },
+  {
+    "id": "25",
+    "name": "Germany",
+    "type": "country"
+  }
+]
